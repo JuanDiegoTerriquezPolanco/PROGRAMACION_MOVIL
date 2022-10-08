@@ -401,3 +401,8 @@
     text-align: center;
     max-width: unset;
 }
+@media (max-width: 600px) {
+    .navBarFooter{
+        display: none;
+    }
+}
