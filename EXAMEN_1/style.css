@@ -1,0 +1,25 @@
+.h1T{
+    margin: 50px;
+}
+.bodyAll{
+    margin: 5%;
+}
+.card{
+    border: black 0px solid !important;
+}
+.card-img-top{
+    width: 25% !important;
+}
+.footerBar{
+    margin: 5% !important;
+}
+.imgPortafolio{
+    width: 100% !important;
+}
+.carousel .carousel-indicators li {  background-color: gray; }
+.carousel .carousel-indicators li.active { background-color: var(--primary); }
+@media (max-width: 480px) {
+    .footerBar{
+        text-align: center !important;
+    }
+}
